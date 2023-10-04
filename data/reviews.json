@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "EmployerId": 1,
+    "UserId": 2,
+    "JobPostingId": 1,
+    "content": "Pekerja bagus",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "EmployerId": 1,
+    "UserId": 3,
+    "JobPostingId": 1,
+    "content": "Pekerja bagus",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "EmployerId": 4,
+    "UserId": 2,
+    "JobPostingId": 5,
+    "content": "Anger Issues",
+    "rating": 1
+  },
+  {
+    "id": 4,
+    "EmployerId": 1,
+    "UserId": 2,
+    "JobPostingId": 6,
+    "content": "Gampang emosi",
+    "rating": 2
+  },
+  {
+    "id": 5,
+    "EmployerId": 1,
+    "UserId": 2,
+    "JobPostingId": 7,
+    "content": "Pekerja bagus",
+    "rating": 4
+  }
+]

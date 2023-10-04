@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "education": "SD",
+    "priority": 1
+  },
+  {
+    "id": 2,
+    "education": "SMK",
+    "priority": 2
+  },
+  {
+    "id": 3,
+    "education": "Diploma",
+    "priority": 3
+  },
+  {
+    "id": 4,
+    "education": "S1",
+    "priority": 4
+  },
+  {
+    "id": 5,
+    "education": "S2",
+    "priority": 5
+  }
+]

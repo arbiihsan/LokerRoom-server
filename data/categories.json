@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Construction"
+  },
+  {
+    "id": 2,
+    "name": "Factory & Industry"
+  },
+  {
+    "id": 3,
+    "name": "House Work"
+  },
+  {
+    "id": 4,
+    "name": "Office"
+  }, 
+  {
+    "id": 5,
+    "name": "Cooking"
+  },
+  {
+    "id": 6,
+    "name": "Cleaning"
+  }, 
+  {
+    "id": 7,
+    "name": "Utility"
+  }
+]
